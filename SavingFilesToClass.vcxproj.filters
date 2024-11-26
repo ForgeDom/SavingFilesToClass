@@ -11,4 +11,9 @@
       <Filter>main</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="dictionary.csv">
+      <Filter>main</Filter>
+    </None>
+  </ItemGroup>
 </Project>
